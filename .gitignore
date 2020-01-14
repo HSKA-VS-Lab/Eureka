@@ -4,3 +4,12 @@
 .idea/misc.xml
 .idea/vcs.xml
 .idea/workspace.xml
+
+# class files
+target/
+
+# vs code
+.vscode/
+.settings/
+.project
+.classpath
